@@ -8,7 +8,8 @@
 //main function provided the entry point to the program \aplication
 
 int main ()
-{
+}
     printf("hello world");
     return 0;
+
 }
